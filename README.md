@@ -10,6 +10,14 @@ answer questions grounded only in that SOP content — with page-level source ci
 
 ---
 
+# 🚀 Live Demo
+
+**Access the deployed application here:**
+
+🔗 **https://vidullanka-ai-agent-ilsye8bk7azmusu39mbmxr.streamlit.app/**
+
+---
+
 ## 1. Project structure
 
 ```
